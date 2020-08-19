@@ -580,11 +580,11 @@ footer.footer .move-up span:hover{
 }
  
 main .site-content .post-content > .post-title .ad-space-up-10rem{
-   padding: 10rem 0rem 0rem 0rem;
+   padding-top: 10rem;
 }
 
 main .site-content .post-content > .post-title .ad-space-down-10rem{
-    padding: 0rem 0rem 10rem 0rem;
+    padding-bottom: 10rem;
 }
 
 main .site-content .post-content > .post-title .site-link{

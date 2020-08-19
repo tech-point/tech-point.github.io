@@ -385,8 +385,13 @@ main .post-content .post-title a{
 
 }
 
+.site-content .sidebar .popular-post .post-content .ad-space{
+    padding-bottom: 15rem;
+
+}
+
 .site-content .sidebar .popular-post h2{
-    padding-top: 8rem;
+    padding-top: 20rem;
 }
 
 .site-content .sidebar .popular-post .post-info{
